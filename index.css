@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+body{
+    background-color: #444;
+}
+  section{
+      background-color: #444;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+     width: auto;
+     height: 500px;
+     margin: auto;
+     padding: 50px;
+      
+  }
+  .title{
+      background-color: #999;
+      margin-bottom: 10px;
+      font-size: 40px;
+      border: 2px solid black;
+      color: blue;
+      width: auto;
+      padding: 6px;
+      border-radius: 13px;
+     
+
+  }
+  table{
+      width: auto;
+      height: 300px;
+  }
+  input[type]{
+      width: 100%;
+      background-color: #111;
+      color: white;
+      cursor: pointer;
+      
+  }
+  input{
+     font-size: 24px;
+     padding: 10px; 
+  }
